@@ -1,0 +1,19 @@
+:root{
+    --color-amarillo: #ECD078;
+    --color-vermell: #f54242;
+    --color-azul: #4248f5;
+    --color-verde: #42f560;
+}
+
+title{
+    color: var(--color-verde);
+}
+
+strong{
+    color: var(--color-amarillo);
+}
+
+h1{
+    color: var(--color-verde);
+    border: 2px solid var(--color-verde);
+}
