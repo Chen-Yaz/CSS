@@ -1,0 +1,6 @@
+:root {
+    --color-verde: #42f560;
+}
+h1{
+    border: 50px solid var(--color-verde);
+}
