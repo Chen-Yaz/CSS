@@ -1,0 +1,43 @@
+/* Bloque Cesta */
+.cesta {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  background: #f9f9f9;
+  border-radius: 0.5rem;
+}
+
+/* Bloque Item */
+.item {
+  margin-bottom: 1rem;
+}
+
+.item__nombre {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.item__precio {
+  color: gray;
+}
+
+/* Bloque Botón */
+.boton {
+  display: inline-block;
+  border-radius: 4px;
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.boton:hover {
+  background: #0056b3;
+}
+
+.boton--desactivado {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background: #aaa;
+}
