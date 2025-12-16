@@ -1,0 +1,18 @@
+.Kodak {
+    color: rgb(255, 221, 31);
+}
+.tiempo {
+    background-color: rgb(70, 102, 192);
+    /* Versión corta */
+    background: rgb(70, 102, 192);
+    color: rgb(255, 255, 255);
+}
+.caja {
+    background-color: rgb(43, 180, 1);
+    /* Versión corta */
+    background: rgb(43, 180, 1);
+    color: rgb(255, 255, 255);
+}
+.lila {
+    color: rgb(180, 53, 255);
+}
