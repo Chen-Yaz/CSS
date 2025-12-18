@@ -1,0 +1,12 @@
+.caja {
+    background-color: rgb(255, 0, 0);
+    /* Versión corta */
+    background: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.tiempo {
+    color: rgb(126, 125, 125);
+}
+.Read{
+    color: rgb(255, 0, 0);
+}
