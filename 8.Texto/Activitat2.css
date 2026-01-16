@@ -26,3 +26,18 @@
 .font-weight5 {
     font-weight: 500; /* Medium */
 }
+.titulo {
+    letter-spacing: 6px;
+}
+
+.autor {
+    word-spacing: 15px;
+}
+
+.capitulo {
+    text-transform: uppercase;
+}
+
+.texto {
+    text-align: center;
+}
