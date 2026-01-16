@@ -1,15 +1,11 @@
-.font-size1 {
-    font-size: 2.5rem;
-}
+
 .font-size2 {
     font-size: 20px;
 }
 .font-size3 {
     font-size: 1.75rem;
 }
-.font-style1 {
-    font-style: oblique;
-}
+
 .font-style2 {
     font-style: italic;
 }
@@ -28,16 +24,26 @@
 }
 .titulo {
     letter-spacing: 6px;
+    font-size: 2.5rem;
+    color: grey;
 }
 
 .autor {
     word-spacing: 15px;
+    font-style: oblique;
 }
 
 .capitulo {
     text-transform: uppercase;
+    font-weight: 750;
+    color: red;
 }
 
 .texto {
     text-align: center;
+}
+
+.estilo:hover {
+    font-style: italic;
+    color: blue;
 }
