@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "TituloFont";
+    src:url("fonts/BBHBartle-Regular.ttf");
+}
+@font-face {
+    font-family: "TextoFont";
+    src: url("fonts/Creepster-Regular.ttf");
+}
+.titulo{
+    font-family: "TituloFont";
+}
+.texto{
+    font-family: "TextoFont";
+}
