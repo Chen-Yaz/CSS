@@ -2,3 +2,14 @@
 .texto2{
     text-transform: uppercase;
 }
+.font-weight{
+    font-weight: 900;
+}
+.font-style{
+    font-style: oblique;
+}
+.caja{
+    background-color: yellow;
+    color: black;
+    font-style: oblique;
+}
