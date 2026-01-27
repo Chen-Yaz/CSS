@@ -1,0 +1,7 @@
+.text{
+    background-color: lightblue; 
+    min-height: 5rem; 
+    max-height: 10rem; 
+    overflow: auto; 
+    padding: 1rem; 
+}
