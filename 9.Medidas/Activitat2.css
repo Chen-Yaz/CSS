@@ -1,0 +1,32 @@
+.font-rojo {
+    color: red;
+    border:red solid 1rem;
+}
+.font-naranja {
+    color: orange;
+    border:orange solid 2rem;
+}
+.font-amarillo {
+    color: yellow;
+    border:yellow solid 3rem;
+}
+.font-verde {
+    color: green;
+    border:green solid 4rem;
+}
+.font-azulclaro {
+    color: lightblue;
+    border:lightblue solid 5rem;
+}
+.font-azul {
+    color: blue;
+    border:blue solid 6rem;
+}
+.font-morado {
+    color: purple;
+    border:purple solid 7rem;
+}
+.font-blanco {
+    color: white;
+    border:white solid 8rem;
+}

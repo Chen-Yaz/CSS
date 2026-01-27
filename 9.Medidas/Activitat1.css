@@ -1,0 +1,23 @@
+.elemento{
+    width: 10rem;
+}
+.title{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.precio{
+    font-size: 1.5rem;
+    color: green;
+}
+.descripcion{
+    font-size: 1rem;
+    font-style: italic;
+}
+.modelo{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.sku{
+    font-size: 1rem;
+    font-weight: 400;
+}
