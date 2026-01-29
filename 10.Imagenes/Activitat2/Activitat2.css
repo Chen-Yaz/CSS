@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+main {
+  height: 100vh; 
+  background-image: url(https://vegabajadigital.com/wp-content/uploads/2023/08/Dia-Mundial-de-la-Fotografia-scaled.jpg);
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.targeta {
+  background-color: rgba(0, 0, 0, 0.55);
+  padding: 24px 32px;
+  border-radius: 12px;
+  color: #f9fafb;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li + li {
+  margin-top: 8px;
+}
+
+nav a {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+nav a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
