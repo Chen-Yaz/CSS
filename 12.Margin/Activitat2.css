@@ -1,0 +1,11 @@
+.text{
+    background-color: rgb(149, 189, 164); 
+    min-height: 1rem; 
+    max-height: 2rem; 
+    overflow: auto; 
+    padding: 1rem; 
+    margin-inline: 5rem 50rem;
+}
+.text-decoration{
+    text-decoration: underline;
+}
